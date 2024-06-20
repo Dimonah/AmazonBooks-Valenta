@@ -1,0 +1,168 @@
+[
+  {
+    "name": "Heart Bones",
+    "language": "English",
+    "ISBN": "978-1668021910",
+    "format": "Hardcover",
+    "edition": "First",
+    "pageCount": "368",
+    "publication_date": "2023-05-31",
+    "weight": "401g",
+    "year_published": 2023,
+    "publisher": {
+      "publisherName": "Simon & Schuster",
+      "founder": "Simon Schuster",
+      "website": "http://simonschuster.com",
+      "address_ID": ObjectId("60d5ec49f4d5f7088d2f9a77")
+    },
+    "genre": {
+      "genre_name": "Romantic",
+      "description": "A romantic story."
+    },
+    "book_series": {
+      "series_name": "First Series",
+      "description": "First Series."
+    },
+    "author": {
+      "first_name": "Colleen",
+      "last_name": "Hoover",
+      "nationality": "American",
+      "biography": "Colleen Hoover.",
+      "website": "http://colleenhoover.com",
+      "birth_date": "1979-12-11"
+    },
+    "reviews": [
+      {
+        "user_rating": "5 stars",
+        "review_text": "An excellent read!",
+        "review_date": "2023-06-01",
+        "user_ID": ObjectId("60d5ec49f4d5f7088d2f9a78")
+      }
+    ],
+    "awards": [
+      {
+        "award_name": "Best Romantic",
+        "award_year": "2019",
+        "organization_name": "Romantic Awards",
+        "award_date": "2019-07-17"
+      }
+    ],
+    "events": [
+      {
+        "event_name": "Book Launch",
+        "description": "Launch event for the book.",
+        "event_date": "2021-01-31"
+      }
+    ]
+  },
+  {
+    "name": "The Midnight Library",
+    "language": "English",
+    "ISBN": "978-0525559474",
+    "format": "Hardcover",
+    "edition": "First",
+    "pageCount": "304",
+    "publication_date": "2020-09-29",
+    "weight": "600g",
+    "year_published": 2020,
+    "publisher": {
+      "publisherName": "Viking",
+      "founder": "Harold K. Guinzburg",
+      "website": "https://www.penguin.com/publishers/viking/",
+      "address_ID": ObjectId("60d5ec49f4d5f7088d2f9a77")
+    },
+    "genre": {
+      "genre_name": "Fantasy",
+      "description": "A story exploring parallel lives through the concept of a library between life and death."
+    },
+    "book_series": {
+      "series_name": "Standalone",
+      "description": "This book is not part of a series."
+    },
+    "author": {
+      "first_name": "Matt",
+      "last_name": "Haig",
+      "nationality": "British",
+      "biography": "Matt Haig is an English author known for both fiction and non-fiction works.",
+      "website": "http://www.matthaig.com",
+      "birth_date": "1975-07-03T00:00:00Z"
+    },
+    "reviews": [
+      {
+        "user_rating": "5 stars",
+        "review_text": "A thought-provoking and emotionally resonant story.",
+        "review_date": "2020-10-01T00:00:00Z",
+        "user_ID": ObjectId("60d5ec49f4d5f7088d2f9a78")
+      }
+    ],
+    "awards": [
+      {
+        "award_name": "Goodreads Choice Award for Fiction",
+        "award_year": "2020",
+        "organization_name": "Goodreads",
+        "award_date": "2020-12-08T00:00:00Z"
+      }
+    ],
+    "events": [
+      {
+        "event_name": "Virtual Book Launch",
+        "description": "An online event to celebrate the launch of The Midnight Library.",
+        "event_date": "2020-09-29T00:00:00Z"
+      }
+    ]
+  },
+  {
+    "name": "Where the Crawdads Sing",
+    "language": "English",
+    "ISBN": "978-0735219090",
+    "format": "Hardcover",
+    "edition": "First",
+    "pageCount": "368",
+    "publication_date": "2018-08-14",
+    "weight": "700g",
+    "year_published": 2018,
+    "publisher": {
+      "publisherName": "G.P. Putnam's Sons",
+      "founder": "George Palmer Putnam",
+      "website": "https://www.penguinrandomhouse.com/imprints/putnam/",
+      "address_ID": ObjectId("60d5ec49f4d5f7088d2f9a77")
+    },
+    "genre": {
+      "genre_name": "Mystery",
+      "description": "A coming-of-age crime drama set in the marshes of North Carolina."
+    },
+    "book_series": {
+      "series_name": "Standalone",
+      "description": "This book is not part of a series."
+    },
+    "author": {
+      "first_name": "Delia",
+      "last_name": "Owens",
+      "nationality": "American",
+      "biography": "Delia Owens is an American author and zoologist.",
+      "website": "http://www.deliaowens.com",
+      "birth_date": "1949-04-04T00:00:00Z"
+    },
+    "reviews": [
+      {
+        "user_rating": "5 stars",
+        "review_text": "A hauntingly beautiful debut novel.",
+        "review_date": "2018-08-20T00:00:00Z",
+        "user_ID": ObjectId("60d5ec49f4d5f7088d2f9a78")
+      }
+    ],
+    "awards": [
+      {
+        "award_name": "Goodreads Choice Award for Fiction",
+        "award_year": "2018",
+        "organization_name": "Goodreads",
+        "award_date": "2018-12-04T00:00:00Z"
+      }
+    ],
+    "events": {
+      "event_name": "Book Signing",
+      "description": "Book signing event with Delia Owens.",
+      "event_date": "2018-08-18T00:00:00Z"
+    }
+  }
+]

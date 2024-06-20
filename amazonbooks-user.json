@@ -1,0 +1,32 @@
+[
+    {
+        "user_ID": ObjectId("60d5ec49f4d5f7088d2f9a78"),
+        "first_name": "Michal",
+        "last_name": "Tvrdý",
+        "gender": "Male",
+        "email": "michal.tvrdy@gmail.com",
+        "birth_date": "2002-02-15",
+        "age": 22,
+        "address": ObjectId("60d5ec49f4d5f7088d2f9a77")
+    },
+    {
+        "user_ID": ObjectId("60d5ec49f4d5f7088d2f9a78"),
+        "first_name": "Anna",
+        "last_name": "Nová",
+        "gender": "Female",
+        "email": "anna.nova55@gmail.com",
+        "birth_date": "1999-06-1",
+        "age": 25,
+        "address": ObjectId("60d5ec49f4d5f7088d2f9a77")
+    },
+    {
+        "user_ID": ObjectId("60d5ec49f4d5f7088d2f9a78"),
+        "first_name": "Marcus",
+        "last_name": "Berko",
+        "gender": "Male",
+        "email": "m.berko91@gmail.com",
+        "birth_date": "1991-12-24",
+        "age": 32,
+        "address": ObjectId("60d5ec49f4d5f7088d2f9a77")
+    }
+]

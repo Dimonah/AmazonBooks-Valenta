@@ -1,0 +1,26 @@
+[
+  {
+    "address_ID": ObjectId("60d5ec49f4d5f7088d2f9a77"),
+    "street": "Dolná",
+    "postal_code": "94106",
+    "city": "Komjatice",
+    "country": "Slovakia",
+    "state": "Slovakia"
+  },
+  {
+    "address_ID": ObjectId("60d5ec49f4d5f7088d2f9a77"),
+    "street": "Horná",
+    "postal_code": "94107",
+    "city": "Veľký Kýr",
+    "country": "Slovakia",
+    "state": "Slovakia"
+  },
+  {
+    "address_ID": ObjectId("60d5ec49f4d5f7088d2f9a77"),
+    "street": "Hradná",
+    "postal_code": "94201",
+    "city": "Šurany",
+    "country": "Slovakia",
+    "state": "Slovakia"
+  }
+]
